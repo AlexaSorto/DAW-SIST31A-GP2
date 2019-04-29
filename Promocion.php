@@ -61,10 +61,10 @@
               <a href="#">AHORA</a>
             </li>
             <li>
-              <a href="#">MAS CERCA </a>
+              <a href="#">MUCHO MAS CERCA </a>
             </li>
             <li>
-              <a href="#">CON NUESTRAS REDES</a>
+              <a href="#">CON NUESTRAS REDES SOCIALES</a>
             </li>
             <li>
               <a href="#">CONTACTANOS</a>
